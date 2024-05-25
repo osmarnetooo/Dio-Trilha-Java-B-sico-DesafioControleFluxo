@@ -14,3 +14,8 @@ Proposta:
 > Dentro do projeto, crie a classe Contador.java para realizar toda a codificação do nosso programa.
 
 > Dentro do projeto, crie a classe ParametrosInvalidosException que representará a exceção de negócio no sistema.
+
+# Atenção
+
+## Além do pedido da proposta de lançar uma exeção caso o primeiro parâmetro seja MAIOR que o segundo parâmetro, também acrescentei uma exceção caso o usuário digite um número quebrado (double) ou uma letra/palavra (String).
+> Quando essa exeção ocorrer o programa vai imprimir: "Os parametros devem ser numéricos e inteiros."
